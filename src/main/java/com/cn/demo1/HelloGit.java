@@ -7,7 +7,7 @@ public class HelloGit {
 		
 
 		System.out.println("zhufangf");
-
+		System.out.println("1");
 		System.out.println("fengz");
 
 	}
